@@ -1,0 +1,16 @@
+Package: spectralGOF
+Type: Package
+Title: Spectral goodness of fit for network models
+Version: 1.0
+Date: 2015-08-15
+Authors@R: as.person(c(
+    "Jesse Shore <jccs@bu.edu> [aut, cre]", 
+    "Benjamin Lubin <blubin@bu.edu> [aut]"
+  ))
+Maintainer: Jesse Shore <jccs@bu.edu>
+Description: A minimal package, including functions for calculating and visualizing the spectral goodness of fit statistic described in "Spectral Goodness of Fit for Network Models" by Jesse Shore and Benjamin Lubin (Social Networks Vol. 43, October 2015, Pages 16-27).
+License: GPL-2
+Imports: ergm, sna
+Packaged: 2015-12-29 20:53:08 UTC; Jesse
+Author: Jesse Shore [aut, cre],
+  Benjamin Lubin [aut]
