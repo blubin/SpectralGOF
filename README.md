@@ -1,2 +1,2 @@
 # SpectralGOF
-Provides functions to calculate the Spectral Goodness of Fit (SGOF) of a network model to an observed network
+The spectralGOF package provides functions to calculate the Spectral Goodness of Fit (SGOF) of a network model to an observed network, as described in Shore, Jesse, and Benjamin Lubin. "Spectral goodness of fit for network models." Social Networks 43 (2015): 16-27. SGOF provides a measure of fit analogous to the standard R-squared in linear regression. Additionally, as it takes advantage of the properties of the spectrum of the graph Laplacian, it is suitable for comparing network models of diverse functional forms, including both fitted statistical models and algorithmic generative models of networks. 
